@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React-Memoization/static/css/main.ff72479d.chunk.css",
+    "main.js": "/React-Memoization/static/js/main.8548c715.chunk.js",
+    "main.js.map": "/React-Memoization/static/js/main.8548c715.chunk.js.map",
+    "runtime-main.js": "/React-Memoization/static/js/runtime-main.f5ca11ac.js",
+    "runtime-main.js.map": "/React-Memoization/static/js/runtime-main.f5ca11ac.js.map",
+    "static/js/2.393bea15.chunk.js": "/React-Memoization/static/js/2.393bea15.chunk.js",
+    "static/js/2.393bea15.chunk.js.map": "/React-Memoization/static/js/2.393bea15.chunk.js.map",
+    "static/js/3.e5cc4a4f.chunk.js": "/React-Memoization/static/js/3.e5cc4a4f.chunk.js",
+    "static/js/3.e5cc4a4f.chunk.js.map": "/React-Memoization/static/js/3.e5cc4a4f.chunk.js.map",
+    "index.html": "/React-Memoization/index.html",
+    "static/css/main.ff72479d.chunk.css.map": "/React-Memoization/static/css/main.ff72479d.chunk.css.map",
+    "static/js/2.393bea15.chunk.js.LICENSE.txt": "/React-Memoization/static/js/2.393bea15.chunk.js.LICENSE.txt",
+    "static/media/aws.6d289f9a.png": "/React-Memoization/static/media/aws.6d289f9a.png",
+    "static/media/fs.a3564b94.png": "/React-Memoization/static/media/fs.a3564b94.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5ca11ac.js",
+    "static/js/2.393bea15.chunk.js",
+    "static/css/main.ff72479d.chunk.css",
+    "static/js/main.8548c715.chunk.js"
+  ]
+}
